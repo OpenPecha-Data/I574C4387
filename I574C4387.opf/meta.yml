@@ -1,0 +1,18 @@
+id: I574C4387
+default_language: bo
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:27:33.821917
+last_modified: 2023-01-04 11:27:33.821931
+source_metadata:
+  collections:
+  - Adzom Gyalse Series
+  - Works of Tibetan Masters
+bases:
+  FEEE:
+    title: 'Advice for Beginners: How to Overcome Obstacles to Meditation'
+    base_file: FEEE.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
